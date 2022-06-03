@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<license>
+	<account-name>Liferay, Inc.</account-name>
+	<owner>Mahmoud Tayem</owner>
+	<description>Liferay, Inc. Developer Activation Keys</description>
+	<product-name>DXP Development</product-name>
+	<product-version>7.4</product-version>
+	<license-name>Digital Enterprise Development</license-name>
+	<license-type>developer</license-type>
+	<license-version>6</license-version>
+	<start-date>Sunday, January 9, 2022 5:27:33 PM GMT</start-date>
+	<expiration-date>Tuesday, December 16, 2121 5:27:33 PM GMT</expiration-date>
+	<max-http-sessions>5</max-http-sessions>
+	<key>9ca8a6e39b874a52f1e40bac0f4fefe0dbc6e5b24147b3a8cc7cedb0493ea0c028690f5fb6061513503b72e94b3c0ffca395f60fde1074908aa48a03974bccd1ad44e7e73bca66ab4cfceed8cc2539cbf8a60422ec12e4ecad479827d7bbc8384c41cc0353b642cdf962a0a791850356788e06cc95985836addd9274578e4e02f0e98f8d</key>
+</license>
